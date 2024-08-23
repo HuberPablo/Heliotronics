@@ -1,2 +1,2 @@
 # Heliotronics
-In this case study, I analyzed the experience curve for Heliotronics, a company involved in producing solar panels, to estimate future manufacturing costs. 
+In this case study, I analyzed the experience curve for Heliotronics, a company involved in producing solar panels, to estimate future manufacturing costs. I used a multiplicative learning model to transform production data into a linear relationship, applied regression analysis to determine the experience curve, and calculated the expected manufacturing costs for a competitive bid in Switzerland. The analysis included forecasting future costs based on cumulative production and providing a 95% confidence interval for these estimates. 
